@@ -1,6 +1,8 @@
 # automine
 Minesweeper X solver made with Python 2 (Windows only)
 
+[Video demo](https://www.youtube.com/watch?v=LkvYJk4VfVQ)
+
 ## How to use
 - Install pywin32 (`pip install pypiwin32`)
 - Clone/download repo
